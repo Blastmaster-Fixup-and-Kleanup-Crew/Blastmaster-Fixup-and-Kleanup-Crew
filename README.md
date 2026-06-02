@@ -11,3 +11,10 @@ We will make this repo private, then we will remove the files, then using Window
 ## Edit June 1st, 2026 Monday at 7:52am EDT
 
 The Repo is now public
+
+
+# Release June 2nd 2026 Tuesday at 5:28PM EDT regarding Blastmaster Fixup and Kleanup Crew's repository 2048-Python
+
+Hey followers, 
+
+We released the new Repo "2048-Python", it is now archived and read-only, it is also public
