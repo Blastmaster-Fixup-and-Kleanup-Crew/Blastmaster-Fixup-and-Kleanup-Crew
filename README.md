@@ -1,20 +1,17 @@
-# Release May 29th 2026 Friday at 12:46PM EDT regarding Blastmaster Fixup and Kleanup Crew's repository Python-Games 
+# Welcome to Blastmaster Fixup and Kleanup Crew!
 
-Hey followers, 
+## My Software!!!!:
 
-We had to pull down the repository as we have to remove files that were not part of the project.
+### BlastmasterOS and BlastmasterServer
 
-WHAT WE WILL DO:
+BlastmasterOS is a completely Free and Open Source Software for consumers
 
-We will make this repo private, then we will remove the files, then using Windows we will copy the files fronm the origin and put it in a folder, then zip it in the folder, after that we will place it on the repo as normal.
+The current build : 1.0.67 was compiled on the 6th of October, 2026 at 6:08 AM EDT
 
-## Edit June 1st, 2026 Monday at 7:52am EDT
+BlastmasterServer will be split from BlastmasterOS soon
 
-The Repo is now public
+### Union: 
+Union is a Chromium based Browser project, there are no builds yet
 
-
-# Release June 2nd 2026 Tuesday at 5:28PM EDT regarding Blastmaster Fixup and Kleanup Crew's repository 2048-Python
-
-Hey followers, 
-
-We released the new Repo "2048-Python", it is now archived and read-only, it is also public
+### Blastmaster Suite 
+Blastmaster Suite is now being developed
